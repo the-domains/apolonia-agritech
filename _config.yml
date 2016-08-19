@@ -1,4 +1,3 @@
-layout_spectrum: 0.8999567937571555
 typography_spectrum: 0.31576575827784836
 color:
   brandStrength: 0.4974171491339803
@@ -11,4 +10,7 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
+layout_spectrum: 0.8999567937571555
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94f7f1e-4f8a-4e74-bd4a-698ce1dbf08d.jpg
 name: Apolonia Agritech
