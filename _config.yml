@@ -1,11 +1,5 @@
-name: Apolonia Agritech
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94f7f1e-4f8a-4e74-bd4a-698ce1dbf08d.jpg
-layout_spectrum: 0.8999567937571555
-typography_spectrum: 0.31576575827784836
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.9813400227576494
+typography_spectrum: 0.6657475552055985
 color:
   brandColors:
     - '#5A1F00'
@@ -13,10 +7,16 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
-  brandStrength: 0.4974171491339803
-  lightness: 0.3171683340333402
-  saturation: 0.4222244347911328
-  rhythmicContrast: 0.5460552766453475
+  brandStrength: 0.5796120520681143
+  lightness: 0.4631586489267647
+  saturation: 0.7544056640472263
+  rhythmicContrast: 0.8608225132338703
+name: Apolonia Agritech
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94f7f1e-4f8a-4e74-bd4a-698ce1dbf08d.jpg
+opengraph:
+  type: ''
+  appId: ''
 title: ''
 author:
   name: 'Martin Apolonia Årdal '
