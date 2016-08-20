@@ -1,26 +1,14 @@
-name: Apolonia Agritech
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94f7f1e-4f8a-4e74-bd4a-698ce1dbf08d.jpg
 layout_spectrum: 0.8999567937571555
 typography_spectrum: 0.31576575827784836
-opengraph:
-  type: ''
-  appId: ''
 color:
-  brandColors:
-    - '#5A1F00'
-    - '#D1570D'
-    - '#FDE792'
-    - '#477725'
-    - '#A9CC66'
   brandStrength: 0.4974171491339803
   lightness: 0.3171683340333402
   saturation: 0.4222244347911328
   rhythmicContrast: 0.5460552766453475
-title: ''
-author:
-  name: 'Martin Apolonia Årdal '
-  url: apolonia.no
-  email: martin.ardal@gmail.com
-content_rating:
-  adult: false
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Apolonia Agritech
