@@ -1,5 +1,6 @@
-layout_spectrum: 0.9813400227576494
 typography_spectrum: 0.6657475552055985
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#5A1F00'
@@ -11,16 +12,15 @@ color:
   lightness: 0.4631586489267647
   saturation: 0.7544056640472263
   rhythmicContrast: 0.8608225132338703
-name: Apolonia Agritech
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94f7f1e-4f8a-4e74-bd4a-698ce1dbf08d.jpg
 opengraph:
   type: ''
   appId: ''
-title: ''
+layout_spectrum: 0.9813400227576494
 author:
   name: 'Martin Apolonia Årdal '
   url: apolonia.no
   email: martin.ardal@gmail.com
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e94f7f1e-4f8a-4e74-bd4a-698ce1dbf08d.jpg
+name: Apolonia Agritech
+title: heads
