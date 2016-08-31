@@ -1,21 +1,21 @@
-typography_spectrum: 0.6657475552055985
-content_rating:
-  adult: false
+layout_spectrum: 0.9914867838378996
+typography_spectrum: 0.5548955369740725
 color:
   brandColors:
-    - '#5A1F00'
-    - '#D1570D'
-    - '#FDE792'
-    - '#477725'
-    - '#A9CC66'
-  brandStrength: 0.5796120520681143
-  lightness: 0.4631586489267647
-  saturation: 0.7544056640472263
-  rhythmicContrast: 0.8608225132338703
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.8649002774618566
+  lightness: 0.27588979923166335
+  saturation: 0.3346340812277049
+  rhythmicContrast: 0.3690628153271973
+content_rating:
+  adult: false
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.9813400227576494
 author:
   name: 'Martin Apolonia Årdal '
   url: apolonia.no
