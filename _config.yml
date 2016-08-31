@@ -27,5 +27,8 @@ navigation:
   - name: 3D printer live
     url: 'http://158.38.34.183/#'
     type: external
+  - name: Facebook page
+    url: 'https://www.facebook.com/ApoloniaAquaponics/'
+    type: external
 title: heads will roll
 description: and you will grow
