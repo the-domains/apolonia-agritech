@@ -1,5 +1,6 @@
-layout_spectrum: 0.9914867838378996
 typography_spectrum: 0.5548955369740725
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#2C3E50'
@@ -11,11 +12,10 @@ color:
   lightness: 0.27588979923166335
   saturation: 0.3346340812277049
   rhythmicContrast: 0.3690628153271973
-content_rating:
-  adult: false
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.9914867838378996
 author:
   name: 'Martin Apolonia Årdal '
   url: apolonia.no
@@ -30,5 +30,5 @@ navigation:
   - name: Facebook page
     url: 'https://www.facebook.com/ApoloniaAquaponics/'
     type: external
-title: heads will roll
+title: saladheads will roll
 description: and you will grow
