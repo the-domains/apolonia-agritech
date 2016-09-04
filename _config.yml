@@ -29,5 +29,8 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/ApoloniaAquaponics/'
     type: external
+  - name: Contact us
+    url: 'https://goo.gl/forms/KL5MYvpFM1A6GYH43'
+    type: external
 title: saladheads will roll
 description: and you will grow
