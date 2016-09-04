@@ -16,6 +16,8 @@ opengraph:
   type: ''
   appId: ''
 layout_spectrum: 0.9914867838378996
+analytics:
+  google: UA-83555242-1
 author:
   name: 'Martin Apolonia Årdal '
   url: apolonia.no
